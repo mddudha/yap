@@ -1,6 +1,6 @@
 # Yap - A Chat Application
 
-![Yap](https://github.com/your-username/yap/blob/main/yap-logo.png)
+![Yap]([https://github.com/your-username/yap/blob/main/yap-logo.png](https://github.com/mddudha/yap/blob/master/yap.png))
 
 Yap is a real-time chat application built using **Spring Boot** on the backend and **STOMP.js** for real-time communication via WebSocket on the frontend. It allows users to send and receive messages in a modern chat interface, providing an interactive experience with instant updates.
 
